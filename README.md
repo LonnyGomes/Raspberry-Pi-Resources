@@ -12,3 +12,4 @@ A list of Raspberry Pi Resources and Troubleshooting solutions
 - Setting up an IR Receiver
   - [Configure an IR receiver](http://ozzmaker.com/how-to-control-the-gpio-on-a-raspberry-pi-with-an-ir-remote/)
   - [This step](https://github.com/OpenELEC/OpenELEC.tv/issues/3908) is also required to make things work on RPi >= v2
+- [Enableing audio on a RPi 2](https://discourse.osmc.tv/t/alsa-doesnt-work-after-last-update/10600/11)
