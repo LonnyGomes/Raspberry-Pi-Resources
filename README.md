@@ -15,3 +15,5 @@ A list of Raspberry Pi Resources and Troubleshooting solutions
 - [Enableing audio on a RPi 2](https://discourse.osmc.tv/t/alsa-doesnt-work-after-last-update/10600/11)
 
 - [Recovering a mongo DB](https://docs.mongodb.com/manual/tutorial/recover-data-following-unexpected-shutdown/)
+
+- [Configuring WiFI](http://weworkweplay.com/play/automatically-connect-a-raspberry-pi-to-a-wifi-network/)
