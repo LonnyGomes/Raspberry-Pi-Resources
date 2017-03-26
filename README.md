@@ -17,3 +17,5 @@ A list of Raspberry Pi Resources and Troubleshooting solutions
 - [Recovering a mongo DB](https://docs.mongodb.com/manual/tutorial/recover-data-following-unexpected-shutdown/)
 
 - [Configuring WiFI](http://weworkweplay.com/play/automatically-connect-a-raspberry-pi-to-a-wifi-network/)
+
+- [Streaming video @ 30FPS](http://www.lewisroberts.com/2015/05/15/raspberry-pi-mjpeg-at-30fps/)
