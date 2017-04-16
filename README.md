@@ -19,3 +19,5 @@ A list of Raspberry Pi Resources and Troubleshooting solutions
 - [Configuring WiFI](http://weworkweplay.com/play/automatically-connect-a-raspberry-pi-to-a-wifi-network/)
 
 - [Streaming video @ 30FPS](http://www.lewisroberts.com/2015/05/15/raspberry-pi-mjpeg-at-30fps/)
+
+- [Node library for the DH22 temperature sensor](https://github.com/momenso/node-dht-sensor)
