@@ -21,3 +21,14 @@ A list of Raspberry Pi Resources and Troubleshooting solutions
 - [Streaming video @ 30FPS](http://www.lewisroberts.com/2015/05/15/raspberry-pi-mjpeg-at-30fps/)
 
 - [Node library for the DH22 temperature sensor](https://github.com/momenso/node-dht-sensor)
+
+- [using pm2 to create a startup script](https://stackoverflow.com/a/41204854)
+
+## Snippets
+
+### Creating systemd pm2 
+
+```bash
+pm2 save
+sudo env PATH=$PATH:/usr/local/node/bin pm2 startup systemd -u pi --hp /home/pi
+```
